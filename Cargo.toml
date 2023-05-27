@@ -1,0 +1,14 @@
+[package]
+name = "luamint"
+version = "0.0.0"
+edition = "2021"
+
+[lib]
+name = "luamint"
+path = "src/lib/mod.rs"
+
+[[bin]]
+name = "luamint"
+path = "src/bin/mod.rs"
+
+[dependencies]
