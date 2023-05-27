@@ -2,6 +2,11 @@
 name = "luamint"
 version = "0.0.0"
 edition = "2021"
+license = "ISC"
+authors = ["teamminty", "WhyNotDogie"]
+description = "The luamint lib/cli tool"
+repository = "https://github.com/teamminty/toy/"
+keywords = ["lua", "luamint"]
 
 [lib]
 name = "luamint"
